@@ -2,9 +2,9 @@ name: CI/CD for RFM Notebook  # Workflow adı
 
 on:
   push:  # Tetikleyici: Her push'ta çalışır
-    branches: [ main ]  # Veya master, senin dalına göre değiştir
+    branches: [ master ]  # Veya master, senin dalına göre değiştir
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build:  # İş adı
