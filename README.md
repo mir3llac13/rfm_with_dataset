@@ -48,4 +48,5 @@ Follow these steps to use the RFM analysis notebook:
 - **Visualization**: A pie chart displays segment percentages for easy interpretation.
 - **Insights**: Low Recency scores suggest many inactive customers; high Monetary in "Champions" segment indicates value from loyal users.
 - **Example Output**: 
-- **Future Improvements**: Integrate K-Means clustering for advanced segmentation. 
+- **Future Improvements**: Integrate K-Means clustering for advanced segmentation.
+- - Updated on October 6, 2025
